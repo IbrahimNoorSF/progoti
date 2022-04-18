@@ -170,6 +170,9 @@
         left: 23%;
         top: 23%;
     }
+    img.vaccine__bg{
+        display: none;
+    }
 }
 
 
